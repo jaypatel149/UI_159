@@ -49,10 +49,7 @@ html,
 }
 
 .pensil {
-    width: 30px;
-    border-radius: 50%;
-    color: #fff;
-    background-color: blue;
+    width: 32px;
     position: absolute;
     right: -0.5rem;
     top: 3.2rem;
